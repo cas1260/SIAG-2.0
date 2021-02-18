@@ -1,0 +1,13 @@
+Line 14: Class MSComctlLib.StatusBar of control Sbar was not a loaded control class.
+Line 59: Class MSComctlLib.ImageList of control MList was not a loaded control class.
+Line 21: The property name _ExtentX in Sbar is invalid.
+Line 22: The property name _ExtentY in Sbar is invalid.
+Line 23: The property name _Version in Sbar is invalid.
+Line 53: The property name Panels in Sbar is invalid.
+Line 62: The property name _ExtentX in MList is invalid.
+Line 63: The property name _ExtentY in MList is invalid.
+Line 65: The property name ImageWidth in MList is invalid.
+Line 66: The property name ImageHeight in MList is invalid.
+Line 67: The property name MaskColor in MList is invalid.
+Line 68: The property name _Version in MList is invalid.
+Line 111: The property name Images in MList is invalid.
